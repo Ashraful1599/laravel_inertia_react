@@ -14,7 +14,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        Inertia::share('STRIPE_KEY', env('STRIPE_KEY'));
+        Inertia::share('STRIPE_KEY', config('app.STRIPE_KEY'));
     }
 
     /**

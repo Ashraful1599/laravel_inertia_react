@@ -438,9 +438,9 @@ const [filterSearch, setFilterSearch] = useState();
         <div className="header-right w-lg-max">
             <div className="header-icon header-search header-search-inline header-search-category w-lg-max text-right mt-0">
                 <a href="#" className="search-toggle" role="button"><i className="icon-search-3"></i></a>
-                <form action="#" method="get">
+                <form action="#" autoComplete='off' method="get">
                     <div className="header-search-wrapper">
-                        <input onChange={search}  type="search" className="form-control" name="q" id="q" placeholder="Search..." required />
+                        <input autoComplete='off' onChange={search}  type="search" className="form-control" name="q" id="q" placeholder="Search..." required />
                         <div className="select-custom">
                             <select id="cat"  name="category" defaultValue="all">
                                 <option value="all">All Categories</option>

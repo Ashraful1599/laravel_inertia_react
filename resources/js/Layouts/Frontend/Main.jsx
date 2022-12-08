@@ -484,12 +484,12 @@ post(route('cart.store', data));
                </div>: 
 
                 <div className="product-action">
-                <Link href="/" className="btn-icon-wish" title="wishlist"><i
+                <Link href={route('product.show',item.slug)} className="btn-icon-wish" title="wishlist"><i
                         className="icon-heart"></i></Link>
-                <Link href="/" className="btn-icon btn-add-cart"><i
+                <Link href={route('product.show',item.slug)} className="btn-icon btn-add-cart"><i
                         className="fa fa-arrow-right"></i><span>SELECT
                         OPTIONS</span></Link>
-                <Link href="/" className="btn-quickview" title="Quick View"><i
+                <Link href={route('product.show',item.slug)} className="btn-quickview" title="Quick View"><i
                         className="fas fa-external-link-alt"></i></Link>
                 </div>
         }
@@ -578,12 +578,12 @@ post(route('cart.store', data));
                </div>: 
 
                 <div className="product-action">
-                <Link href="/" className="btn-icon-wish" title="wishlist"><i
+                <Link href={route('product.show',item.slug)} className="btn-icon-wish" title="wishlist"><i
                         className="icon-heart"></i></Link>
-                <Link href="/" className="btn-icon btn-add-cart"><i
+                <Link href={route('product.show',item.slug)} className="btn-icon btn-add-cart"><i
                         className="fa fa-arrow-right"></i><span>SELECT
                         OPTIONS</span></Link>
-                <Link href="/" className="btn-quickview" title="Quick View"><i
+                <Link href={route('product.show',item.slug)} className="btn-quickview" title="Quick View"><i
                         className="fas fa-external-link-alt"></i></Link>
                 </div>
         }

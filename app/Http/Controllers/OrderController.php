@@ -86,7 +86,7 @@ class OrderController extends Controller
         $total = str_replace( ',', '', $total );
 
         if($request->payment_method == 'stripe'){
-            Stripe::setApiKey(env('STRIPE_SECRET'));
+            Stripe::setApiKey(config('app.STRIPE_SECRET')); 
             $existCustomer = Customer::all(["email" => $request->email]);
             if(empty($existCustomer->data)){
        

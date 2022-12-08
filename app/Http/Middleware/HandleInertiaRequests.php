@@ -57,7 +57,7 @@ class HandleInertiaRequests extends Middleware
         $cartItems = Cart::content();
         $subtotal = Cart::subtotal();
         $total = Cart::total();
-        $count = Cart::count();
+        $count = Cart::count(); 
 
         return array_merge(parent::share($request), [
             'auth' => [

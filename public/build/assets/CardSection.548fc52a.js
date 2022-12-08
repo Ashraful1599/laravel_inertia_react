@@ -1,0 +1,1 @@
+import{b as o}from"./app.8ee9396d.js";import{C as t}from"./react-stripe.esm.26f43368.js";import"./index.9c46ddb8.js";const r={style:{base:{color:"#303238",fontSize:"16px",fontFamily:"sans-serif",fontSmoothing:"antialiased","::placeholder":{color:"#CFD7DF"}},invalid:{color:"#e5424d",":focus":{color:"#303238"}}}};function n(){return o(t,{options:r})}export{n as default};

@@ -1,0 +1,1115 @@
+{
+  "resources/assets/img/illustrations/profiles/profile-1.png": {
+    "file": "assets/profile-1.1625f64f.png",
+    "src": "resources/assets/img/illustrations/profiles/profile-1.png"
+  },
+  "resources/FrontEnd/assets/images/flags.png": {
+    "file": "assets/flags.a38a0518.png",
+    "src": "resources/FrontEnd/assets/images/flags.png"
+  },
+  "resources/FrontEnd/assets/images/elements/alert/close.svg": {
+    "file": "assets/close.953c39b9.svg",
+    "src": "resources/FrontEnd/assets/images/elements/alert/close.svg"
+  },
+  "resources/FrontEnd/assets/fonts/porto6e1d.eot": {
+    "file": "assets/porto6e1d.60923d29.eot",
+    "src": "resources/FrontEnd/assets/fonts/porto6e1d.eot"
+  },
+  "resources/FrontEnd/assets/images/effects/s1.png": {
+    "file": "assets/s1.932b4310.png",
+    "src": "resources/FrontEnd/assets/images/effects/s1.png"
+  },
+  "resources/FrontEnd/assets/images/effects/sparkle1.png": {
+    "file": "assets/sparkle1.e62e2d60.png",
+    "src": "resources/FrontEnd/assets/images/effects/sparkle1.png"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400.bd4e21d8.eot",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.eot"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400.4aa44a07.eot",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.eot"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900.e153efe3.eot",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.eot"
+  },
+  "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.eot": {
+    "file": "assets/Simple-Line-Iconsec97.1c823013.eot",
+    "src": "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.eot"
+  },
+  "resources/FrontEnd/assets/fonts/porto6e1d.woff2": {
+    "file": "assets/porto6e1d.8422b363.woff2",
+    "src": "resources/FrontEnd/assets/fonts/porto6e1d.woff2"
+  },
+  "resources/FrontEnd/assets/images/effects/s2.png": {
+    "file": "assets/s2.f33456db.png",
+    "src": "resources/FrontEnd/assets/images/effects/s2.png"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400.dc64d719.woff2",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "resources/FrontEnd/assets/images/effects/sparkle2.png": {
+    "file": "assets/sparkle2.6f8e86b0.png",
+    "src": "resources/FrontEnd/assets/images/effects/sparkle2.png"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.ccf4db1e.woff2",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.ttf": {
+    "file": "assets/Simple-Line-Iconsec97.3f501ddb.ttf",
+    "src": "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.ttf"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.f18c486a.woff2",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "resources/FrontEnd/assets/fonts/porto6e1d.woff": {
+    "file": "assets/porto6e1d.5d267589.woff",
+    "src": "resources/FrontEnd/assets/fonts/porto6e1d.woff"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400.17ce8b9d.woff",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff"
+  },
+  "resources/FrontEnd/assets/images/effects/s3.png": {
+    "file": "assets/s3.eba0a0a4.png",
+    "src": "resources/FrontEnd/assets/images/effects/s3.png"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400.2835b63f.woff",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff"
+  },
+  "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.woff": {
+    "file": "assets/Simple-Line-Iconsec97.14b825d7.woff",
+    "src": "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.woff"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900.20464aeb.woff",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff"
+  },
+  "resources/FrontEnd/assets/fonts/porto6e1d.ttf": {
+    "file": "assets/porto6e1d.015647aa.ttf",
+    "src": "resources/FrontEnd/assets/fonts/porto6e1d.ttf"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.112491dc.ttf",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400.70726f98.ttf",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.7a58f741.ttf",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.svg": {
+    "file": "assets/Simple-Line-Iconsec97.51c5b7fb.svg",
+    "src": "resources/FrontEnd/assets/vendor/simple-line-icons/fonts/Simple-Line-Iconsec97.svg"
+  },
+  "resources/FrontEnd/assets/fonts/porto6e1d.svg": {
+    "file": "assets/porto6e1d.d7be81c0.svg",
+    "src": "resources/FrontEnd/assets/fonts/porto6e1d.svg"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400.934530d8.svg",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400.svg"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400.e281f2a2.svg",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400.svg"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900.d5b21251.svg",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900.svg"
+  },
+  "resources/assets/img/illustrations/at-work.svg": {
+    "file": "assets/at-work.2fe291f3.svg",
+    "src": "resources/assets/img/illustrations/at-work.svg"
+  },
+  "resources/FrontEnd/assets/images/demoes/demo4/slider/slide-2.jpg": {
+    "file": "assets/slide-2.a01cac6e.jpg",
+    "src": "resources/FrontEnd/assets/images/demoes/demo4/slider/slide-2.jpg"
+  },
+  "resources/FrontEnd/assets/images/demoes/demo4/slider/slide-1.jpg": {
+    "file": "assets/slide-1.3e4e5d65.jpg",
+    "src": "resources/FrontEnd/assets/images/demoes/demo4/slider/slide-1.jpg"
+  },
+  "resources/assets/img/illustrations/profiles/profile-2.png": {
+    "file": "assets/profile-2.c12a3592.png",
+    "src": "resources/assets/img/illustrations/profiles/profile-2.png"
+  },
+  "resources/assets/img/illustrations/profiles/profile-3.png": {
+    "file": "assets/profile-3.a6f0554a.png",
+    "src": "resources/assets/img/illustrations/profiles/profile-3.png"
+  },
+  "resources/assets/img/illustrations/profiles/profile-4.png": {
+    "file": "assets/profile-4.d94f32b9.png",
+    "src": "resources/assets/img/illustrations/profiles/profile-4.png"
+  },
+  "resources/assets/img/illustrations/profiles/profile-5.png": {
+    "file": "assets/profile-5.7e3bdc7d.png",
+    "src": "resources/assets/img/illustrations/profiles/profile-5.png"
+  },
+  "resources/FrontEnd/img/icons/icon-cart-big.svg": {
+    "file": "assets/icon-cart-big.457923c1.svg",
+    "src": "resources/FrontEnd/img/icons/icon-cart-big.svg"
+  },
+  "resources/FrontEnd/assets/images/logo.png": {
+    "file": "assets/logo.207267f2.png",
+    "src": "resources/FrontEnd/assets/images/logo.png"
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app.8ee9396d.js",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Account/AccountProfile.jsx",
+      "resources/js/Pages/Admin/AddUser.jsx",
+      "resources/js/Pages/Admin/Attribute/Index.jsx",
+      "resources/js/Pages/Admin/AttributeCreate.jsx",
+      "resources/js/Pages/Admin/AttributeEdit.jsx",
+      "resources/js/Pages/Admin/CatAdd.jsx",
+      "resources/js/Pages/Admin/CatEdit.jsx",
+      "resources/js/Pages/Admin/CatIndex.jsx",
+      "resources/js/Pages/Admin/FileCreate - Copy.jsx",
+      "resources/js/Pages/Admin/FileCreate.jsx",
+      "resources/js/Pages/Admin/FileEdit.jsx",
+      "resources/js/Pages/Admin/FileIndex.jsx",
+      "resources/js/Pages/Admin/FileIndexCopy.jsx",
+      "resources/js/Pages/Admin/ProductCreate.jsx",
+      "resources/js/Pages/Admin/ProductEdit - Copy (2).jsx",
+      "resources/js/Pages/Admin/ProductEdit - Copy.jsx",
+      "resources/js/Pages/Admin/ProductEdit.jsx",
+      "resources/js/Pages/Admin/ProductIndex.jsx",
+      "resources/js/Pages/Admin/Review/Create.jsx",
+      "resources/js/Pages/Admin/Review/Edit.jsx",
+      "resources/js/Pages/Admin/Review/Index.jsx",
+      "resources/js/Pages/Admin/TagCreate.jsx",
+      "resources/js/Pages/Admin/TagEdit.jsx",
+      "resources/js/Pages/Admin/TagIndex.jsx",
+      "resources/js/Pages/Admin/TermCreate.jsx",
+      "resources/js/Pages/Admin/TermEdit.jsx",
+      "resources/js/Pages/Admin/TermIndex.jsx",
+      "resources/js/Pages/Admin/UserEdit.jsx",
+      "resources/js/Pages/Admin/Users.jsx",
+      "resources/js/Pages/Auth/ConfirmPassword.jsx",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyEmail.jsx",
+      "resources/js/Pages/Auth/blank.jsx",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/FrontEnd/CardSection.jsx",
+      "resources/js/Pages/FrontEnd/Cart.jsx",
+      "resources/js/Pages/FrontEnd/Category.jsx",
+      "resources/js/Pages/FrontEnd/Checkout.jsx",
+      "resources/js/Pages/FrontEnd/CheckoutForm.jsx",
+      "resources/js/Pages/FrontEnd/CheckoutLogin.jsx",
+      "resources/js/Pages/FrontEnd/Login.jsx",
+      "resources/js/Pages/FrontEnd/MyAccount.jsx",
+      "resources/js/Pages/FrontEnd/OrderComplete.jsx",
+      "resources/js/Pages/FrontEnd/ProductView.jsx",
+      "resources/js/Pages/FrontEnd/Register.jsx",
+      "resources/js/Pages/FrontEnd/Shop.jsx",
+      "resources/js/Pages/Welcome.jsx"
+    ],
+    "css": [
+      "assets/app.77d10b11.css"
+    ]
+  },
+  "resources/FrontEnd/assets/js/jquery.min.js": {
+    "file": "assets/jquery.min.c2343689.js",
+    "src": "resources/FrontEnd/assets/js/jquery.min.js",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min.cd260588.js",
+    "src": "resources/FrontEnd/assets/js/bootstrap.bundle.min.js",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/js/optional/isotope.pkgd.min.js": {
+    "file": "assets/isotope.pkgd.min.3cdbf220.js",
+    "src": "resources/FrontEnd/assets/js/optional/isotope.pkgd.min.js",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/js/plugins.min.js": {
+    "file": "assets/plugins.min.e2507474.js",
+    "src": "resources/FrontEnd/assets/js/plugins.min.js",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/js/jquery.appear.min.js": {
+    "file": "assets/jquery.appear.min.41aeb4ab.js",
+    "src": "resources/FrontEnd/assets/js/jquery.appear.min.js",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/js/nouislider.min.js": {
+    "file": "assets/nouislider.min.d02a50f9.js",
+    "src": "resources/FrontEnd/assets/js/nouislider.min.js",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/js/main.min.js": {
+    "file": "assets/main.min.ff79407f.js",
+    "src": "resources/FrontEnd/assets/js/main.min.js",
+    "isEntry": true
+  },
+  "resources/js/Pages/Account/AccountProfile.jsx": {
+    "file": "assets/AccountProfile.12312ee3.js",
+    "src": "resources/js/Pages/Account/AccountProfile.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "_DashboardLayout.be011592.js": {
+    "file": "assets/DashboardLayout.be011592.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ],
+    "assets": [
+      "assets/profile-1.1625f64f.png",
+      "assets/profile-2.c12a3592.png",
+      "assets/profile-3.a6f0554a.png",
+      "assets/profile-4.d94f32b9.png",
+      "assets/profile-5.7e3bdc7d.png"
+    ]
+  },
+  "_react-toastify.esm.b4b407d9.js": {
+    "file": "assets/react-toastify.esm.b4b407d9.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_Header.c54a3ebc.js": {
+    "file": "assets/Header.c54a3ebc.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_index.9c46ddb8.js": {
+    "file": "assets/index.9c46ddb8.js"
+  },
+  "resources/js/Pages/Admin/AddUser.jsx": {
+    "file": "assets/AddUser.780848ad.js",
+    "src": "resources/js/Pages/Admin/AddUser.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/Attribute/Index.jsx": {
+    "file": "assets/Index.33f3bf10.js",
+    "src": "resources/js/Pages/Admin/Attribute/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.es.745b709c.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "_index.es.745b709c.js": {
+    "file": "assets/index.es.745b709c.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "_trash-2.1dbb9c2a.js": {
+    "file": "assets/trash-2.1dbb9c2a.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "_hoist-non-react-statics.cjs.d2fea6c5.js": {
+    "file": "assets/hoist-non-react-statics.cjs.d2fea6c5.js"
+  },
+  "resources/js/Pages/Admin/AttributeCreate.jsx": {
+    "file": "assets/AttributeCreate.f9aca6ee.js",
+    "src": "resources/js/Pages/Admin/AttributeCreate.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/AttributeEdit.jsx": {
+    "file": "assets/AttributeEdit.65a3cb15.js",
+    "src": "resources/js/Pages/Admin/AttributeEdit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/CatAdd.jsx": {
+    "file": "assets/CatAdd.dc3c0671.js",
+    "src": "resources/js/Pages/Admin/CatAdd.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/CatEdit.jsx": {
+    "file": "assets/CatEdit.f08987ef.js",
+    "src": "resources/js/Pages/Admin/CatEdit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/CatIndex.jsx": {
+    "file": "assets/CatIndex.60f9bc1b.js",
+    "src": "resources/js/Pages/Admin/CatIndex.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_datatable.87a3989b.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "_datatable.87a3989b.js": {
+    "file": "assets/datatable.87a3989b.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "dynamicImports": [
+      "node_modules/simple-datatables/src/date.js"
+    ]
+  },
+  "resources/js/Pages/Admin/FileCreate - Copy.jsx": {
+    "file": "assets/FileCreate - Copy.50d93911.js",
+    "src": "resources/js/Pages/Admin/FileCreate - Copy.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.12499850.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "_index.12499850.js": {
+    "file": "assets/index.12499850.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "resources/js/Pages/Admin/FileCreate.jsx": {
+    "file": "assets/FileCreate.88c1d217.js",
+    "src": "resources/js/Pages/Admin/FileCreate.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.12499850.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/FileEdit.jsx": {
+    "file": "assets/FileEdit.bd3b5dbe.js",
+    "src": "resources/js/Pages/Admin/FileEdit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.12499850.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/FileIndex.jsx": {
+    "file": "assets/FileIndex.a97db6b1.js",
+    "src": "resources/js/Pages/Admin/FileIndex.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.es.745b709c.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "resources/js/Pages/Admin/FileIndexCopy.jsx": {
+    "file": "assets/FileIndexCopy.29e33692.js",
+    "src": "resources/js/Pages/Admin/FileIndexCopy.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.es.745b709c.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "resources/js/Pages/Admin/ProductCreate.jsx": {
+    "file": "assets/ProductCreate.d6a63f15.js",
+    "src": "resources/js/Pages/Admin/ProductCreate.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_Editor.e0b08e3e.js",
+      "_react-select.esm.8c846078.js",
+      "_react-select-animated.esm.533b1a11.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "_Editor.e0b08e3e.js": {
+    "file": "assets/Editor.e0b08e3e.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "_react-select.esm.8c846078.js": {
+    "file": "assets/react-select.esm.8c846078.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "_react-select-animated.esm.533b1a11.js": {
+    "file": "assets/react-select-animated.esm.533b1a11.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.9c46ddb8.js",
+      "_react-select.esm.8c846078.js"
+    ]
+  },
+  "resources/js/Pages/Admin/ProductEdit - Copy (2).jsx": {
+    "file": "assets/ProductEdit - Copy (2).4b6f2c0b.js",
+    "src": "resources/js/Pages/Admin/ProductEdit - Copy (2).jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_Editor.e0b08e3e.js",
+      "_react-select.esm.8c846078.js",
+      "_react-select-animated.esm.533b1a11.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "resources/js/Pages/Admin/ProductEdit - Copy.jsx": {
+    "file": "assets/ProductEdit - Copy.d000e6b5.js",
+    "src": "resources/js/Pages/Admin/ProductEdit - Copy.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_Editor.e0b08e3e.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/ProductEdit.jsx": {
+    "file": "assets/ProductEdit.8caf6980.js",
+    "src": "resources/js/Pages/Admin/ProductEdit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_Editor.e0b08e3e.js",
+      "_react-select.esm.8c846078.js",
+      "_react-select-animated.esm.533b1a11.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "resources/js/Pages/Admin/ProductIndex.jsx": {
+    "file": "assets/ProductIndex.bf1956f4.js",
+    "src": "resources/js/Pages/Admin/ProductIndex.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.es.745b709c.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "resources/js/Pages/Admin/Review/Create.jsx": {
+    "file": "assets/Create.ebfa45bb.js",
+    "src": "resources/js/Pages/Admin/Review/Create.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_react-select.esm.8c846078.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "resources/js/Pages/Admin/Review/Edit.jsx": {
+    "file": "assets/Edit.172603ee.js",
+    "src": "resources/js/Pages/Admin/Review/Edit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_react-select.esm.8c846078.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "resources/js/Pages/Admin/Review/Index.jsx": {
+    "file": "assets/Index.dd720916.js",
+    "src": "resources/js/Pages/Admin/Review/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.es.745b709c.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "resources/js/Pages/Admin/TagCreate.jsx": {
+    "file": "assets/TagCreate.4e95c303.js",
+    "src": "resources/js/Pages/Admin/TagCreate.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/TagEdit.jsx": {
+    "file": "assets/TagEdit.4dcffd14.js",
+    "src": "resources/js/Pages/Admin/TagEdit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/TagIndex.jsx": {
+    "file": "assets/TagIndex.58bf6ed1.js",
+    "src": "resources/js/Pages/Admin/TagIndex.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_datatable.87a3989b.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/TermCreate.jsx": {
+    "file": "assets/TermCreate.3a20353e.js",
+    "src": "resources/js/Pages/Admin/TermCreate.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/TermEdit.jsx": {
+    "file": "assets/TermEdit.bd818ccb.js",
+    "src": "resources/js/Pages/Admin/TermEdit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/TermIndex.jsx": {
+    "file": "assets/TermIndex.4ba9082c.js",
+    "src": "resources/js/Pages/Admin/TermIndex.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.es.745b709c.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "resources/js/Pages/Admin/UserEdit.jsx": {
+    "file": "assets/UserEdit.20bbc092.js",
+    "src": "resources/js/Pages/Admin/UserEdit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Admin/Users.jsx": {
+    "file": "assets/Users.691bb598.js",
+    "src": "resources/js/Pages/Admin/Users.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DashboardLayout.be011592.js",
+      "_Header.c54a3ebc.js",
+      "_datatable.87a3989b.js",
+      "_trash-2.1dbb9c2a.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
+    "file": "assets/ConfirmPassword.f03c8c26.js",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout.5b5e848f.js",
+      "_PrimaryButton.e26ad969.js"
+    ]
+  },
+  "_GuestLayout.5b5e848f.js": {
+    "file": "assets/GuestLayout.5b5e848f.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_PrimaryButton.e26ad969.js": {
+    "file": "assets/PrimaryButton.e26ad969.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "file": "assets/ForgotPassword.a4cb3ff9.js",
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout.5b5e848f.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login.7746d218.js",
+    "src": "resources/js/Pages/Auth/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout.5b5e848f.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register.c4385140.js",
+    "src": "resources/js/Pages/Auth/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout.5b5e848f.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "file": "assets/ResetPassword.39ce6a1c.js",
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout.5b5e848f.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.jsx": {
+    "file": "assets/VerifyEmail.93add734.js",
+    "src": "resources/js/Pages/Auth/VerifyEmail.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout.5b5e848f.js",
+      "_PrimaryButton.e26ad969.js"
+    ]
+  },
+  "resources/js/Pages/Auth/blank.jsx": {
+    "file": "assets/blank.2ca110dd.js",
+    "src": "resources/js/Pages/Auth/blank.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard.304fe1aa.js",
+    "src": "resources/js/Pages/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_datatable.87a3989b.js",
+      "_DashboardLayout.be011592.js",
+      "_index.9c46ddb8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ],
+    "assets": [
+      "assets/at-work.2fe291f3.svg"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/CardSection.jsx": {
+    "file": "assets/CardSection.548fc52a.js",
+    "src": "resources/js/Pages/FrontEnd/CardSection.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_react-stripe.esm.26f43368.js",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "_react-stripe.esm.26f43368.js": {
+    "file": "assets/react-stripe.esm.26f43368.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/Cart.jsx": {
+    "file": "assets/Cart.ffa2ae2e.js",
+    "src": "resources/js/Pages/FrontEnd/Cart.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FrontendLayout.e54e6823.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js"
+    ]
+  },
+  "_FrontendLayout.e54e6823.js": {
+    "file": "assets/FrontendLayout.e54e6823.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js"
+    ],
+    "assets": [
+      "assets/logo.207267f2.png"
+    ]
+  },
+  "_react-paginate.74cec0d8.js": {
+    "file": "assets/react-paginate.74cec0d8.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/Category.jsx": {
+    "file": "assets/Category.d49c244c.js",
+    "src": "resources/js/Pages/FrontEnd/Category.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/FrontEnd/CheckoutForm.jsx",
+      "_react-stripe.esm.26f43368.js",
+      "_stripe.esm.68a36c38.js",
+      "_FrontendLayout.e54e6823.js",
+      "_react-paginate.74cec0d8.js",
+      "_state.d698205e.js",
+      "_react-select.esm.8c846078.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js",
+      "resources/js/Pages/FrontEnd/CheckoutLogin.jsx",
+      "_react-toastify.esm.b4b407d9.js",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/CheckoutForm.jsx": {
+    "file": "assets/CheckoutForm.68fd7c8c.js",
+    "src": "resources/js/Pages/FrontEnd/CheckoutForm.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FrontendLayout.e54e6823.js",
+      "_state.d698205e.js",
+      "_react-select.esm.8c846078.js",
+      "resources/js/Pages/FrontEnd/CheckoutLogin.jsx",
+      "_react-stripe.esm.26f43368.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "_stripe.esm.68a36c38.js": {
+    "file": "assets/stripe.esm.68a36c38.js"
+  },
+  "_state.d698205e.js": {
+    "file": "assets/state.d698205e.js"
+  },
+  "resources/js/Pages/FrontEnd/CheckoutLogin.jsx": {
+    "file": "assets/CheckoutLogin.df7ce1ad.js",
+    "src": "resources/js/Pages/FrontEnd/CheckoutLogin.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/Checkout.jsx": {
+    "file": "assets/Checkout.86c3659f.js",
+    "src": "resources/js/Pages/FrontEnd/Checkout.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/FrontEnd/CheckoutForm.jsx",
+      "_react-stripe.esm.26f43368.js",
+      "_stripe.esm.68a36c38.js",
+      "_FrontendLayout.e54e6823.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js",
+      "_state.d698205e.js",
+      "_react-select.esm.8c846078.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js",
+      "resources/js/Pages/FrontEnd/CheckoutLogin.jsx",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/Login.jsx": {
+    "file": "assets/Login.97fd76b6.js",
+    "src": "resources/js/Pages/FrontEnd/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FrontendLayout.e54e6823.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/MyAccount.jsx": {
+    "file": "assets/MyAccount.a3b561d1.js",
+    "src": "resources/js/Pages/FrontEnd/MyAccount.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FrontendLayout.e54e6823.js",
+      "_state.d698205e.js",
+      "_react-select.esm.8c846078.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/OrderComplete.jsx": {
+    "file": "assets/OrderComplete.a2941360.js",
+    "src": "resources/js/Pages/FrontEnd/OrderComplete.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FrontendLayout.e54e6823.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/ProductView.jsx": {
+    "file": "assets/ProductView.53b0a049.js",
+    "src": "resources/js/Pages/FrontEnd/ProductView.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_FrontendLayout.e54e6823.js",
+      "resources/js/app.jsx",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js"
+    ],
+    "css": [
+      "assets/ReactToastify.2a37359d.css"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/Register.jsx": {
+    "file": "assets/Register.0e2c4f79.js",
+    "src": "resources/js/Pages/FrontEnd/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FrontendLayout.e54e6823.js",
+      "_react-toastify.esm.b4b407d9.js",
+      "_react-paginate.74cec0d8.js"
+    ]
+  },
+  "resources/js/Pages/FrontEnd/Shop.jsx": {
+    "file": "assets/Shop.55d7d8bd.js",
+    "src": "resources/js/Pages/FrontEnd/Shop.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/FrontEnd/CheckoutForm.jsx",
+      "_react-stripe.esm.26f43368.js",
+      "_stripe.esm.68a36c38.js",
+      "_FrontendLayout.e54e6823.js",
+      "_react-paginate.74cec0d8.js",
+      "_state.d698205e.js",
+      "_react-select.esm.8c846078.js",
+      "_hoist-non-react-statics.cjs.d2fea6c5.js",
+      "resources/js/Pages/FrontEnd/CheckoutLogin.jsx",
+      "_react-toastify.esm.b4b407d9.js",
+      "_index.9c46ddb8.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.jsx": {
+    "file": "assets/Welcome.1ed3e3af.js",
+    "src": "resources/js/Pages/Welcome.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FrontendLayout.e54e6823.js",
+      "_react-paginate.74cec0d8.js",
+      "_react-toastify.esm.b4b407d9.js"
+    ],
+    "assets": [
+      "assets/slide-1.3e4e5d65.jpg",
+      "assets/slide-2.a01cac6e.jpg"
+    ]
+  },
+  "node_modules/simple-datatables/src/date.js": {
+    "file": "assets/date.54d6e1ad.js",
+    "src": "node_modules/simple-datatables/src/date.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.77d10b11.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/FrontEnd/assets/vendor/simple-line-icons/css/simple-line-icons.min.css": {
+    "file": "assets/simple-line-icons.min.a69ef963.css",
+    "src": "resources/FrontEnd/assets/vendor/simple-line-icons/css/simple-line-icons.min.css",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/css/demo4.min.css": {
+    "file": "assets/demo4.min.4a2095b9.css",
+    "src": "resources/FrontEnd/assets/css/demo4.min.css",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/css/bootstrap.min.css": {
+    "file": "assets/bootstrap.min.6eef1ba8.css",
+    "src": "resources/FrontEnd/assets/css/bootstrap.min.css",
+    "isEntry": true
+  },
+  "ReactToastify.css": {
+    "file": "assets/ReactToastify.2a37359d.css",
+    "src": "ReactToastify.css"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/css/all.min.css": {
+    "file": "assets/all.min.f05050bf.css",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/css/all.min.css",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/css/style.min.css": {
+    "file": "assets/style.min.365fc705.css",
+    "src": "resources/FrontEnd/assets/css/style.min.css",
+    "isEntry": true
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400d41d.eot": {
+    "file": "assets/fa-brands-400.bd4e21d8.eot",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-brands-400d41d.eot"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400d41d.eot": {
+    "file": "assets/fa-regular-400.4aa44a07.eot",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-regular-400d41d.eot"
+  },
+  "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900d41d.eot": {
+    "file": "assets/fa-solid-900.e153efe3.eot",
+    "src": "resources/FrontEnd/assets/vendor/fontawesome-free/webfonts/fa-solid-900d41d.eot"
+  }
+}

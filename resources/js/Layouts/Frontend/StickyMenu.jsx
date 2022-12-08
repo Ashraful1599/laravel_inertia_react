@@ -1,35 +1,40 @@
 import React from 'react'
+import { usePage, Link,useForm } from '@inertiajs/inertia-react';
+
 
 export default function StickyMenu() {
+
+    const{flashData, auth, flash} = usePage().props;
+const count = flashData.count;
   return (
-    <div>
+    <div> 
             <div className="sticky-navbar">
         <div className="sticky-info">
-            <a href="demo4.html">
+            <Link href="/">
                 <i className="icon-home"></i>Home
-            </a>
+            </Link>
         </div>
         <div className="sticky-info">
-            <a href="category.html" className="">
+            <Link href="#" className="">
                 <i className="icon-bars"></i>Categories
-            </a>
+            </Link>
         </div>
         <div className="sticky-info">
-            <a href="wishlist.html" className="">
+            <Link href="#" className="">
                 <i className="icon-wishlist-2"></i>Wishlist
-            </a>
+            </Link>
         </div>
         <div className="sticky-info">
-            <a href="login.html" className="">
+            <Link href="my-account" className="">
                 <i className="icon-user-2"></i>Account
-            </a>
+            </Link>
         </div>
         <div className="sticky-info">
-            <a href="cart.html" className="">
+            <Link href="/cart" className="">
                 <i className="icon-shopping-cart position-relative">
-					<span className="cart-count badge-circle">3</span>
+					<span className="cart-count badge-circle">{count}</span>
 				</i>Cart
-            </a>
+            </Link>
         </div>
     </div>
     </div>

@@ -29,6 +29,10 @@ return [
     */
 
     'env' => env('APP_ENV', 'production'),
+    'STRIPE_KEY' => env('STRIPE_KEY', 'pk_test_VAHrAGYTHFiAJAVjH3SDdIrL00CRJ837tt'),
+    'STRIPE_SECRET' => env('STRIPE_SECRET', 'sk_test_suNVuOkCkCRVcFLb28DI61Vw00HZzomdOx'),
+    'PAYPAL_CLIENT_ID' => env('PAYPAL_CLIENT_ID', 'AeeX7xCalgqVoqlfptNjgh5ZTRYIBKWu9V875yR70pA0sBp0S0XDeNGJVin0kpBR5-19waWM33_jyJmR'),
+    
 
     /*
     |--------------------------------------------------------------------------
@@ -54,7 +58,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://ecom.expertoftech.com'),
 
     'asset_url' => env('ASSET_URL'),
 

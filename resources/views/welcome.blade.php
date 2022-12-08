@@ -12,7 +12,7 @@
 		<meta name="author" content="SW-THEMES">
 	
 		<!-- Favicon -->
-		<link rel="icon" type="image/x-icon" href="/assets/images/icons/favicon.png">
+		<link rel="icon" type="image/x-icon" href="{{ asset('assets/images/icons/favicon.png') }}" />
 	
 		<script>
 			// WebFontConfig = {
@@ -30,15 +30,17 @@
 		</script>
 
     <!-- Plugins CSS File -->
-    <link rel="stylesheet" href="{{ Vite::asset('resources/FrontEnd/assets/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('/assets/css/bootstrap.min.css') }}">
 
     <!-- Main CSS File -->
-    <link rel="stylesheet" href="{{ Vite::asset('resources/FrontEnd/assets/css/style.min.css') }}">
-	<link rel="stylesheet" href="{{ Vite::asset('resources/FrontEnd/assets/css/demo4.min.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ Vite::asset('resources/FrontEnd/assets/vendor/fontawesome-free/css/all.min.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ Vite::asset('resources/FrontEnd/assets/vendor/simple-line-icons/css/simple-line-icons.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('/assets/css/style.min.css') }}">
+	<link rel="stylesheet" href="{{ asset('/assets/css/demo4.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('/assets/vendor/fontawesome-free/css/all.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('/assets/vendor/simple-line-icons/css/simple-line-icons.min.css') }}">
 
 
+
+ {{-- @vite(['resources/FrontEnd/assets/css/bootstrap.min.css', 'resources/FrontEnd/assets/css/style.min.css','resources/FrontEnd/assets/css/demo4.min.css','resources/FrontEnd/assets/vendor/fontawesome-free/css/all.min.css','resources/FrontEnd/assets/vendor/simple-line-icons/css/simple-line-icons.min.css']) --}}
 
         <!-- Scripts -->
         @routes
@@ -52,24 +54,23 @@
 
 
 
-        @inertia
-
+        @inertia  	
 
 		
-
+		{{-- @vite(['resources/FrontEnd/assets/js/jquery.min.js','resources/FrontEnd/assets/js/bootstrap.bundle.min.js','resources/FrontEnd/assets/js/optional/isotope.pkgd.min.js','resources/FrontEnd/assets/js/plugins.min.js','resources/FrontEnd/assets/js/jquery.appear.min.js','resources/FrontEnd/assets/js/nouislider.min.js','resources/FrontEnd/assets/js/main.min.js']) --}}
 
     <!-- Plugins JS File -->
-    <script src={{ Vite::asset('resources/FrontEnd/assets/js/jquery.min.js') }}></script>
-    <script src={{ Vite::asset('resources/FrontEnd/assets/js/bootstrap.bundle.min.js') }}></script>
-    <script src={{ Vite::asset('resources/FrontEnd/assets/js/optional/isotope.pkgd.min.js') }}></script>
-    <script src={{ Vite::asset('resources/FrontEnd/assets/js/plugins.min.js') }}></script>
-    <script src={{ Vite::asset('resources/FrontEnd/assets/js/jquery.appear.min.js') }}></script>
-    <script src={{ Vite::asset('resources/FrontEnd/assets/js/nouislider.min.js') }}></script>
+    <script src={{ asset('/assets/js/jquery.min.js') }}></script>
+    <script src={{ asset('/assets/js/bootstrap.bundle.min.js') }}></script>
+    <script src={{ asset('/assets/js/optional/isotope.pkgd.min.js') }}></script>
+    <script src={{ asset('/assets/js/plugins.min.js') }}></script>
+    <script src={{ asset('/assets/js/jquery.appear.min.js') }}></script>
+    <script src={{ asset('/assets/js/nouislider.min.js') }}></script>
 
     <!-- Main JS File -->
-      <script src={{ Vite::asset('resources/FrontEnd/assets/js/main.min.js') }} defer ></script>  
+      <script src={{ asset('/assets/js/main.min.js') }} defer ></script>  
 
-	  <script  src="https://www.paypal.com/sdk/js?client-id={{env('PAYPAL_CLIENT_ID')}}&enable-funding=venmo&buyer-country=US"></script> 
+	  <script  src="https://www.paypal.com/sdk/js?client-id={{config('app.PAYPAL_CLIENT_ID')}}&enable-funding=venmo"></script> 
 	
 
 

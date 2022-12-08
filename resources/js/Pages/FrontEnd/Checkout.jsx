@@ -15,7 +15,7 @@ import { usePage } from '@inertiajs/inertia-react';
 export default function Checkout({userById,userDetails,cartItems,subtotal,tax,total}) {
 
   const {STRIPE_KEY} = usePage().props;
-  const stripePromise = loadStripe(STRIPE_KEY);
+  const stripePromise = loadStripe(STRIPE_KEY);  
   
   return (
     <Elements stripe={stripePromise} >
